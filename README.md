@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# REACT + TypeScript + Ethers.js Frontend for (NFT)
 
 ## Available Scripts
 
